@@ -1,0 +1,3 @@
+C:/Users/DELL/CLionProjects/testchain/cmake-build-debug/CMakeFiles/testchain.dir
+C:/Users/DELL/CLionProjects/testchain/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DELL/CLionProjects/testchain/cmake-build-debug/CMakeFiles/rebuild_cache.dir
